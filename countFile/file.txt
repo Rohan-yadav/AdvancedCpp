@@ -1,0 +1,5 @@
+blue 7
+red 4
+white 5
+yellow 6
+45
